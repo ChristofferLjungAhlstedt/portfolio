@@ -7,3 +7,9 @@
 .grayColor{
     color: #d3d3d3 !important;
 }
+.education{
+    background-image: url("../assets/img/study.png");
+    background-size: cover;
+    background-color: rgb(204, 204, 204);
+    background-blend-mode: overlay;
+}
