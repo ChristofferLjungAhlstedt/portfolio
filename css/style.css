@@ -13,3 +13,14 @@
     background-color: rgb(204, 204, 204);
     background-blend-mode: overlay;
 }
+.spaceTop{
+    padding-top: 50px;
+}
+
+.linkOnBlue{
+    color: rgb(34, 34, 34);
+    text-decoration: underline;
+}
+.linkOnBlue:hover{
+    color: rgb(68, 68, 68);
+}
