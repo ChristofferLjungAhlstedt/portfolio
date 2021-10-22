@@ -24,3 +24,7 @@
 .linkOnBlue:hover{
     color: rgb(68, 68, 68);
 }
+
+.textLarge {
+    font-size: large;
+}
